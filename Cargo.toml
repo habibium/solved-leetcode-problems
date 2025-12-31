@@ -1,0 +1,10 @@
+[package]
+name = "solved-leetcode-problems"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "0041-palindrome-number"
+path = "0041-palindrome-number.rs"
+
+# To add more Rust problems, add a new [[bin]] section above or move them to src/bin/

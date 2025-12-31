@@ -178,3 +178,5 @@ dist
 *.class
 
 target
+# Rust
+target/
